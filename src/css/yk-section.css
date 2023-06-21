@@ -1,0 +1,15 @@
+.section {
+  background-color: teal;
+  color: white;
+}
+.container {
+  max-width: 1000px;
+  min-width: 320px;
+  padding: 0 20px;
+}
+.list {
+  list-style: none;
+}
+.item {
+  font-size: 18px;
+}
